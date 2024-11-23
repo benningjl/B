@@ -1,0 +1,5 @@
+2024-11-22 15:38:29,446 - INFO - Application started.
+2024-11-22 15:38:29,446 - DEBUG - Debugging message.
+2024-11-22 15:38:29,446 - WARNING - Warning message.
+2024-11-22 15:38:29,446 - ERROR - Error message.
+2024-11-22 15:38:29,446 - CRITICAL - Critical error!

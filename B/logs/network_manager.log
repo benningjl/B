@@ -1,0 +1,4 @@
+2024-11-22 15:22:58,382 - INFO - Server started on 127.0.0.1:8080
+2024-11-22 15:22:58,382 - INFO - Waiting for client connections...
+2024-11-22 15:25:44,864 - INFO - Connection established with ('127.0.0.1', 52481)
+2024-11-22 15:26:06,833 - INFO - Connection closed with ('127.0.0.1', 52481)
